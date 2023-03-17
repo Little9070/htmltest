@@ -25,6 +25,7 @@ body {
 
 /* p - paragraph */
 p {
+  z-index: auto;
   font: 24px arial;
   color: #f2fafc;
 }
