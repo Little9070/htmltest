@@ -1,4 +1,39 @@
+/* Made by Little9070 using MDN Web Docs */
+
+/* Credit to CyberYoshi64 for some assistance */
+
+/* This is my first time using HTML + CSS */
+
+/* Sets the BG color, size, and padding info */
+body {
+  padding:0px 0 20px 0px;
+  margin: 0px;
+  font:14px/1.5 Arial;
+  color:#FFFFFF;
+  font-weight: normal;
+  background-color: #000000
+}
+
+/* Uhh i really dont know what this does but I know its very important */
+.wrapper {
+  max-width:1024px;
+  margin:0 auto;
+  position:relative;
+  padding: 0 20px;
+}
+
+
+/* p - paragraph */
 p {
   font: 24px arial;
-  color: #ffffff;
+  color: #f2fafc;
+}
+
+/* h1 - heading 1 */
+/* the bigger the number the larger the size */
+h1, h2, h3, h4, h5, h6 {
+  color:#ffffff;
+  margin:0 0 10px;
+  font-family: arial;
+  font-weight: normal;
 }
