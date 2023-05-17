@@ -40,6 +40,12 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 }
 
+/* this should be a custom tag, maybe it will work? maybe it wont. */
+ct {
+  z-index: 100;
+  color:#710000;
+  font-family: sans-serif;
+}
 #header {
   z-index: 100;
   left:0;
@@ -116,3 +122,5 @@ h1, h2, h3, h4, h5, h6 {
     }
   }
 }
+
+/* I honestly have no clue what I'm doing. It's by God's grace and mercy if this even ends up looking good. Seriously, I'm putting faith and trust in him. slash srs */
